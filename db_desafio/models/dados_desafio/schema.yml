@@ -1,0 +1,81 @@
+
+version: 2
+
+models:
+  - name: dados_ficha
+    description: "Dados cadastrais de pacientes"
+    columns:
+      - name: id_paciente
+        description: "Identificador de paciente"
+        data_tests:
+          - unique
+          - not_null
+      - name: sexo
+        description: "Sexo."
+      - name: obito
+        description: "Indicacao de óbito."
+      - name: bairro
+        description: "Nome do bairro."
+      - name: raca_cor
+        description: "Descricao de raca/cor."
+      - name: ocupacao
+        description: "Ocupacao exercida."
+      - name: religiao
+        description: "Religiao exercida."
+      - name: luz_eletrica
+        description: "Indicacao se possui luz eletrica."
+      - name: data_cadastro
+        description: "Data de cadastro do paciente."
+      - name: escolaridade
+        description: "Nivel de escolaridade ."
+      - name: nacionalidade
+        description: "Nacionalidade."
+      - name: renda_familiar
+        description: "Renda familiar."
+      - name: data_nascimento
+        description: "Data de nascimento."
+      - name: em_situacao_de_rua
+        description: "Indicacao se em situacao de rua."
+      - name: frequenta_escola
+        description: "Indicacao se frequenta escola."
+      - name: meios_transporte
+        description: "Meios de transporte utilizados."
+      - name: doencas_condicoes
+        description: "Doencas ou condicões de saude."
+      - name: identidade_genero
+        description: "Identidade de genero."
+      - name: meios_comunicacao
+        description: "Meios de comunicacao utilizados."
+      - name: orientacao_sexual
+        description: "Orientacao sexual."
+      - name: possui_plano_saude
+        description: "Indicacao se possui plano de saude."
+      - name: em_caso_doenca_procura
+        description: "Indicacao sobre a quem procura em caso de doenca."
+      - name: situacao_profissional
+        description: "Situacao profissional."
+      - name: vulnerabilidade_social
+        description: "Vulnerabilidades sociais."
+      - name: data_atualizacao_cadastro
+        description: "Data da ultima atualizacao cadastral do paciente."
+      - name: familia_beneficiaria_auxilio_brasil
+        description: "Indicacao se a familia do paciente e beneficiaria."
+      - name: crianca_matriculada_creche_pre_escola
+        description: "Indicacao se a crianca esta matriculada em creche ou pre-escola."
+      - name: altura
+        description: "Altura medida"
+      - name: peso
+        description: "Peso medido"
+      - name: pressao_sistolica
+        description: "Pressao sistolica medida"
+      - name: pressao_diastolica
+        description: "Pressao diastolica medida"
+      - name: n_atendimentos_atencao_primaria
+        description: "Quantidade de atendimentos na atencao primaria no ultimo ano"
+      - name: n_atendimentos_hospital
+        description: "Quantidade de atendimentos no hospital no ultimo ano"
+      - name: updated_at
+        description: "Data e hora da ultima atualizacao dos dados."
+      - name: tipo
+        description: "Identifica se dado veio de fluxo rotineiro ou historico"
+  
