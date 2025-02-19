@@ -1,0 +1,749 @@
+id,bairro
+0,parada de lucas
+1,cidade nova
+2,santa cruz
+3,bangu
+4,santíssimo
+5,jardim vinte e cinco de agosto
+6,penha circular
+7,guadalupe
+8,manguinhos
+9,irajá
+10,ricardo de albuquerque
+11,condado de maricá
+12,anchieta
+13,vila da penha
+14,senador camará
+15,bonsucesso
+16,jacarepaguá
+17,gávea
+18,realengo
+19,colégio
+20,tauá
+21,engenho novo
+22,maré
+23,costa barros
+24,botafogo
+25,são cristovão
+26,portuguesa
+27,brisa mar
+28,itanhangá
+29,campo grande
+30,penha
+31,cavalcanti
+32,olaria
+33,pavuna
+34,oswaldo cruz
+35,taquara
+36,paciência
+37,gamboa
+38,cacuia
+39,sampaio
+40,ramos
+41,quintino bocaiuva
+42,méier
+43,bento ribeiro
+44,bancários
+45,marechal hermes
+46,guaratiba
+47,vicente de carvalho
+48,praça seca
+49,todos os santos
+50,alto da boa vista
+51,catete
+52,magalhães bastos
+53,cosmos
+54,curicica
+55,benfica
+56,vila isabel
+57,praia da bandeira
+58,galeão
+59,barra da tijuca
+60,parque lafaiete
+61,lins de vasconcelos
+62,rocha miranda
+63,senador vasconcelos
+64,cidade de deus
+65,jacaré
+66,mangueira
+67,anil
+68,sepetiba
+69,madureira
+70,barros filho
+71,cordovil
+72,turiaçu
+73,outro
+74,cascadura
+75,andaraí
+76,freguesia (jacarepagua)
+77,coelho neto
+78,higienópolis
+79,rio comprido
+80,vigário geral
+81,telégrafo sem fio
+82,vargem pequena
+83,del castilho
+84,lagoa
+85,caju
+86,gardênia azul
+87,recreio dos bandeirantes
+88,parque araruama
+89,inhaúma
+90,piedade
+91,boa ventura
+92,honório gurgel
+93,santa teresa
+94,parque novo rio
+95,cachambi
+96,copacabana
+97,braz de pina
+98,engenho de dentro
+99,parque martinho
+100,padre miguel
+101,vargem grande
+102,tomás coelho
+103,nossa senhora de fátima
+104,vaz lobo
+105,grajaú
+106,leblon
+107,engenheiro leal
+108,monsuaba
+109,tijuca
+110,vila kosmos
+111,parque das missões
+112,tanque
+113,pilares
+114,éden
+115,catumbi
+116,ipanema
+117,jardim américa
+118,jardim anhangá
+119,santo cristo
+120,barra de guaratiba
+121,glória
+122,vista alegre
+123,inhoaíba
+124,jardim cristina
+125,centro
+126,engenho da rainha
+127,pechincha
+128,leme
+129,estácio
+130,riachuelo
+131,cidade universitária
+132,vidigal
+133,parque anchieta
+134,maracanã
+135,rocha
+136,abolição
+137,praça da bandeira
+138,vila valqueire
+139,são conrado
+140,parque centenário
+141,parque colúmbia
+142,jardim carioca
+143,camorim
+144,pedra de guaratiba
+145,cosme velho
+146,são francisco xavier
+147,maria da graça
+148,nova esperança
+149,ribeira
+150,vila urussaí
+151,coelho da rocha
+152,saúde
+153,jardim arco íris
+154,jardim botânico
+155,jardim guanabara
+156,encantado
+157,freguesia (ilha do governador)
+158,jardim sulacap
+159,rocinha
+160,parque paulista
+161,cosmorama
+162,nova belém
+163,moquetá
+164,acari
+165,jardim miramar
+166,deodoro
+167,laranjeiras
+168,flamengo
+169,paquetá
+170,tomazinho
+171,zumbi
+172,jardim leal
+173,cocotá
+174,urca
+175,shangri-lá
+176,recreio
+177,vila brasil (manilha)
+178,tubiacanga
+179,vila rosali
+180,água santa
+181,moneró
+182,parque samira
+183,campinho
+184,jardim rosário
+185,grande rio
+186,dendê
+187,jardim primavera
+188,bras de pina
+189,jurunas
+190,nossa senhora do carmo
+191,vilar dos teles
+192,humaitá
+193,campo alegre
+194,setor de habitações individuais sul
+195,itaipu
+196,recreio das bandeirantes
+197,vila militar
+198,jacarezinho
+199,bnh
+200,alecrim
+201,parque uruguaiana
+202,guarabu
+203,sitio novo oriente
+204,vila santo antônio
+205,são roque
+206,vila são luís
+207,areia branca
+208,são judas tadeu
+209,engenheiro belford
+210,rocha sobrinho
+211,ano bom
+212,pauline
+213,santo antônio da prata
+214,parque eldorado
+215,jardim alzira
+216,parque tietê
+217,parque amorim
+218,vila centenário
+219,lagoinha
+220,conjunto santa maria
+221,ipiranga
+222,jardim gramacho
+223,nossa senhora das graças
+224,olinda
+225,novo eldorado
+226,parque barreto
+227,queimados
+228,monte castelo
+229,inoã (inoã)
+230,paraíso
+231,vasco da gama
+232,imbariê
+233,charitas
+234,campo dos afonsos
+235,setor oeste
+236,heliópolis
+237,guará ii
+238,malhapão
+239,marapicu
+240,cerâmica
+241,vila sueli
+242,campinas
+243,almerinda
+244,joá
+245,vale do ipê
+246,bela vista
+247,comendador soares
+248,saracuruna
+249,tinguá
+250,vila itamarati
+251,mantiquira
+252,nova campinas
+253,dumas
+254,tribobó
+255,araújo de cosmos
+256,serra verde (venda nova)
+257,planalto paulista
+258,pitangueiras
+259,vila heliopolis
+260,ponto chic
+261,cabuis
+262,banco de areia
+263,engenho do porto
+264,vila sarapuí
+265,alto da posse
+266,cruzeiro do sul
+267,vila palmeiras
+268,parque analândia
+269,carolina
+270,vila curuçá
+271,olavo bilac
+272,parque paulicéia
+273,agostinho porto
+274,centro administrativo da bahia
+275,prata
+276,vila leopoldina
+277,cordeirinho (ponta negra)
+278,km 32
+279,santa amélia
+280,quitandinha
+281,boaçu
+282,barro vermelho
+283,inconfidência
+284,amendoeira
+285,piam
+286,icaraí
+287,santa rita
+288,jardim santa rita
+289,vila emil
+290,barra funda
+291,jardim metrópole
+292,mutuá
+293,maria josé
+294,nogueira
+295,prados verdes
+296,jardim esperança
+297,vila mariana
+298,mariano procópio
+299,caonze
+300,vila santa alice
+301,andrade araujo
+302,frei fabiano
+303,chapada
+304,piratininga
+305,engenho pequeno
+306,fazenda caxias
+307,vila norma
+308,santa terezinha
+309,pilar
+310,parque jordão
+311,austin
+312,laranjal
+313,miguel couto
+314,piabetá (inhomirim)
+315,vila verde
+316,fonseca
+317,vila tiradentes
+318,parque são nicolau
+319,cachoeira grande (rio do ouro)
+320,chácaras rio-petrópolis
+321,cabuçu
+322,nossa senhora aparecida
+323,alvarez
+324,santo elias
+325,são miguel
+326,jardim garcía
+327,gradim
+328,santo antônio
+329,posse
+330,barreto
+331,santana
+332,alcântara
+333,morro do gama
+334,parque duque
+335,caputera i
+336,indianópolis
+337,jardim paraíso
+338,vila josé
+339,vila formosa
+340,graças
+341,itaúna
+342,vila colúmbia
+343,maria paula
+344,florestinha i (tamoios)
+345,doutor laureano
+346,jardim ideal
+347,alto da riviera
+348,jardim olavo bilac
+349,badu
+350,estrela do norte
+351,vila esperança (vila inhomirim)
+352,itimirim
+353,itacolomi
+354,juscelino
+355,santa catarina
+356,condomínio residencial santa maria (santa maria)
+357,pe pequeno
+358,vila são joão
+359,farrula
+360,tirirical
+361,jardim catarina
+362,cônego
+363,baia de guanabara
+364,velame
+365,mangueirão
+366,engenho
+367,neves (neves)
+368,guacuri
+369,parque laguna e dourados
+370,chatuba
+371,sete pontes
+372,santo amaro
+373,coréia
+374,vinhateiro
+375,vila fátima
+376,uruguai
+377,cidade senhor do bonfim
+378,feitosa
+379,riachão
+380,parque aurora (itambi)
+381,vila guimarães
+382,parque alian
+383,coroado
+384,cidade industrial satélite de são paulo
+385,periperi
+386,parque senhor do bonfim
+387,vila são judas tadeu
+388,santa isabel
+389,curral falso
+390,vila guarita
+391,jardim dimas filho
+392,são francisco de assis
+393,granja florestal
+394,parque nápolis b
+395,santa rosa
+396,nova américa
+397,paiol de pólvora
+398,parque colonial
+399,parque dos camargos
+400,conjunto habitacional josé giordano
+401,aquarius (tamoios)
+402,colubande
+403,paranhos (vila inhomirim)
+404,vila canaan
+405,jardim mariléa
+406,vila margarida
+407,chácara são josé
+408,citrópolis
+409,aero clube
+410,boa vista
+411,nova cidade
+412,são mateus
+413,jardim maracanã
+414,tinguazinho
+415,sion
+416,ingá
+417,cabral
+418,cidade continental-setor áfrica
+419,jardim josé bonifácio
+420,jardim meriti
+421,cidade olímpica
+422,são vicente
+423,vila central
+424,empresarial paineira (jordanésia)
+425,jardim tupiara
+426,vila maia
+427,parque fluminense
+428,caçador
+429,são lourenço
+430,caramujo
+431,são joão clímaco
+432,parque vitória
+433,cajazeiras
+434,parque novo jockey
+435,das graças
+436,jaguaribe
+437,jardim canaã
+438,três corações
+439,vila rosário
+440,jardim atlântico central (itaipuaçu)
+441,triangulo
+442,jardim marilândia
+443,jardim vila nova
+444,parque a equitativa
+445,japuíba (cunhambebe)
+446,porto novo
+447,loteamento bondarovshy
+448,sapê
+449,manassu
+450,parque regina
+451,parque são pedro de alcantara
+452,vila pacheco da rocha
+453,área rural de cabo frio
+454,campo lindo
+455,vila vênus
+456,jardim jurema
+457,nova marília
+458,são josé
+459,venda velha
+460,jardim atlântico oeste (itaipuaçu)
+461,vila constança de calvos
+462,jardim morada do sol
+463,parada angélica
+464,trindade
+465,sítio dos gansos
+466,retiro
+467,santa luzia
+468,rodilândia
+469,jardim imperial
+470,parque roseiral
+471,pau grande (vila inhomirim)
+472,palhada
+473,vila nova
+474,santa mônica
+475,carmari
+476,barbuda
+477,jardim guandu
+478,flores
+479,bosque da saúde
+480,ouro preto
+481,santa lúcia
+482,fonte carioca
+483,ponto novo
+484,asa norte
+485,amapá
+486,bengui
+487,parque beira mar
+488,porto do rosa
+489,vale das pedrinhas
+490,favela rio das pedras
+491,trezentos
+492,pedro do rio
+493,parque residencial união
+494,guaxindiba
+495,kennedy
+496,parque engenheiro pedreira
+497,parque nova esperança
+498,extensão do bosque
+499,boa esperança
+500,piranema
+501,boca da barra
+502,riacho fundo i
+503,joaquim de oliveira
+504,ogiva
+505,autódromo
+506,vila zulmira
+507,vila de cava
+508,parque mambucaba (mambucaba)
+509,muriqui
+510,vila herminia maia
+511,ariramba (mosqueiro)
+512,bom pastor
+513,azenha
+514,parque marilandia
+515,vila olímpia
+516,nova califórnia (tamoios)
+517,são domingos
+518,vila são joão batista
+519,xavantes
+520,dois irmãos
+521,brasilândia
+522,vila são sebastião
+523,praia de itaipuaçu (itaipuaçu)
+524,mosela
+525,monte serrat
+526,mazomba
+527,jardins
+528,alphaville industrial
+529,vila netinho prado
+530,bom retiro
+531,conjunto josé vallim de melo
+532,auxiliadora
+533,guará i
+534,cidade jardim parque estoril
+535,engenho velho
+536,iucas
+537,centro (vila inhomirim)
+538,jardim caiçara
+539,monjolos
+540,araçatiba
+541,jardim pitoresco
+542,jardim palmares
+543,vila geny
+544,jardim veneza
+545,nova aurora
+546,nova alegria
+547,aliança
+548,pacheco
+549,tomba
+550,parque ambaí
+551,chaperó
+552,várzea das moças
+553,vila santa teresa
+554,jardim íris
+555,parque felicidade
+556,parque saudade
+557,praia do canto
+558,caioaba
+559,cohab nova
+560,parque juriti
+561,edson passos
+562,jardim alvorada
+563,são jorge
+564,extensão serramar
+565,vila santa cruz
+566,fluminense
+567,jardim pernambuco
+568,parque moderno
+569,parque sayonara (vila inhomirim)
+570,residencial santa paula
+571,vila recreio (vila inhomirim)
+572,califórnia
+573,jardim da paz (guia de pacobaíba)
+574,vila meriti
+575,vila japeri
+576,campos elíseos
+577,parque panorama
+578,parque luiz gonzaga
+579,jardim cidade do aço
+580,parque xerém
+581,cubango
+582,jardim peró
+583,engenheiro pedreira
+584,rio centro
+585,santa sofia
+586,são bernardo
+587,são lourenço (guia de pacobaíba)
+588,vila guarani (z sul)
+589,granja rosalina
+590,jardim são paulo
+591,viga
+592,canto do rio
+593,aeroporto
+594,sitio retiro feliz
+595,são bento
+596,valverde
+597,coelho
+598,gramacho
+599,vila saudade
+600,cidade júlia
+601,sacramento
+602,largo da batalha
+603,itapuã
+604,nova piam
+605,vila bandeirantes
+606,cangulo
+607,ermitage
+608,parque primavera
+609,vila gabriela (manilha)
+610,floresta
+611,parque união
+612,tiradentes
+613,chácaras arcampo
+614,vila lage
+615,glaucia
+616,vila galvão
+617,boa viagem
+618,anaia pequeno
+619,jardim sumaré
+620,alto uruguai
+621,wona
+622,vila nova (suruí)
+623,vila buenos aires
+624,vila operária
+625,santa rita do bracuí (cunhambebe)
+626,parque valdairosa
+627,verão vermelho (tamoios)
+628,vila ouro preto
+629,massaranduba
+630,doutor laerte laender
+631,vila maria (bonfim)
+632,jardim paulistano (zona norte)
+633,jardim são sebastião
+634,progresso
+635,jardim mar
+636,parque são bento
+637,prq
+638,vila bernadete
+639,jardim itacolomi
+640,parque corrientes
+641,emaús
+642,minas brasil
+643,jardim cachoeira
+644,igapó
+645,parque das flores
+646,ingleses do rio vermelho
+647,parque estrela (vila inhomirim)
+648,riviera fluminense
+649,tabuba
+650,capim macio
+651,conjunto habitacional sion ii
+652,parque da gávea
+653,santa tereza
+654,jardim maria do carmo
+655,vila amélia
+656,jardim do bosque
+657,vila carvalho (vila inhomirim)
+658,samambaia sul (samambaia)
+659,orindi
+660,jardim camburi
+661,parque cruz alta
+662,várzea
+663,jardim alegria
+664,loteamento jardim américa
+665,jardim são paulo(zona norte)
+666,val-de-cães
+667,pernambués
+668,parque flamboyant
+669,campo novo
+670,ambaí
+671,plano diretor norte
+672,grumari
+673,três córregos
+674,cidade satélite santa bárbara
+675,sossego
+676,jardim esmeralda
+677,porto do carro
+678,santa bárbara
+679,jardim dos estados
+680,carlos sampaio
+681,maguari
+682,chácaras de inoã (inoã)
+683,água fria
+684,são pedro
+685,parque esplanada ii
+686,itaipava
+687,vila iguaçuana
+688,são geraldo
+689,rosa dos ventos
+690,jardim nova era
+691,operário
+692,são simão
+693,jardim amapa
+694,jardim queimados
+695,parque estrela
+696,jóquei clube
+697,alvorada
+698,tingui
+699,vila brasília
+700,ouro verde
+701,jardim silvana
+702,jardim nazareno (vila inhomirim)
+703,aeroporto velho
+704,maringá
+705,vila camarim
+706,parque recreio dom pedro ii (guia de pacobaíba)
+707,guaratiba (ponta negra)
+708,parque santa lúcia
+709,alto da rua xv
+710,jardim paraíba
+711,camará
+712,jacutinga
+713,praia do anil (guia de pacobaíba)
+714,colina de laranjeiras
+715,saudade
+716,parque paraíso
+717,parque leopoldina
+718,recreio itapoã
+719,unamar (tamoios)
+720,hernani sá
+721,luz
+722,aurora
+723,curió-utinga
+724,ampliação
+725,parque são judas tadeu
+726,imbetiba
+727,marambaia
+728,jardim das oliveiras
+729,vila jurandir
+730,parque do laranjal
+731,pequi
+732,alterosas
+733,cidade horácio (vila inhomirim)
+734,liberdade
+735,jordanésia (jordanésia)
+736,panorama
+737,quinta mariana
+738,kátia (justinópolis)
+739,muquiçaba
+740,jardim corumbá
+741,parque residencial guadalajara
+742,barracão
+743,campinho da serra i
+744,itapeba
+745,vila scintila
+746,ponta do ambrósio
+747,jardim passa vinte

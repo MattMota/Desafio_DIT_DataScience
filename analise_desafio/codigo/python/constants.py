@@ -1,5 +1,9 @@
 PATHS = {
-    'input' : "../../dados/dados_ficha_a_desafio.csv"
+    "input" : "../../dados/fonte/dados_ficha_a_desafio.csv",
+    "output" : {
+        "dw" : "../../dados/data_warehouse/",
+        "dl" : "../../dados/data_lake/"
+    }
 }
 
 DECODED_CHARS = {
