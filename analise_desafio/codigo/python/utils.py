@@ -169,24 +169,24 @@ def build_bridge_table(
     return bridge_table
 
 
-def drop_by_index(
+def drop_by_value(
     series: pd.Series,
-    index_list: list[int],
+    value_list: list,
     dropna: bool = True
 ) -> pd.Series:
     '''
-    Removes elements from a Series by their index. Can also remove NaN values.
+    Removes elements from a Series by their values. Can also remove NaN values.
 
     Arguments:
         series (pandas.Series): The original Series object to have elements removed from.
-        index_list (list[int]): The lsit of indices to be removed from `series`.
+        value_list (list): The list of elements to be removed from `series`.
         dropna (bool): Defaults to `True`. If it should also remove NaN values.
     
     Returns:
         new_series (pandas.Series): The `series` object with all requested elements removed.
     '''
 
-    new_series = series.drop(index_list).reset_index(drop = True)
+    new_series = series[~series.isin(value_list)].reset_index(drop = True)
 
     if dropna:
         new_series = new_series.dropna(ignore_index = True)
@@ -307,6 +307,6 @@ def conform_multival_series(series: pd.Series) -> pd.Series:
 
         return []
     
-    conformed_series = series.apply(parse_value).fillna([])
+    conformed_series = series.apply(parse_value)
 
     return conformed_series

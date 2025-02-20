@@ -3,6 +3,46 @@ PATHS = {
     "output" : {
         "dw" : "../../dados/data_warehouse/",
         "dl" : "../../dados/data_lake/"
+    },
+    "dbt" : "../../../db_desafio/seeds/"
+}
+
+CATEGORIES = {
+    "booleans" : [
+        "obito", "luz_eletrica",  "em_situacao_de_rua",  "frequenta_escola",
+        "possui_plano_saude",  "familia_beneficiaria_auxilio_brasil",
+        "crianca_matriculada_creche_pre_escola"
+    ],
+    "multivalued" : [
+        "meios_transporte", "doencas_condicoes",
+        "meios_comunicacao", "em_caso_doenca_procura"
+    ],
+    "well_defined" : [
+        "sexo", "bairro", "raca_cor", "religiao", "escolaridade", "nacionalidade",
+        "renda_familiar", "identidade_genero", "orientacao_sexual", "tipo"
+    ]
+}
+
+TABLE_DROP_VALUES = {
+    "bridges" : {
+        "meios_comunicacao" : [
+            "3 salários mínimos",
+            "4 salários mínimos",
+            "mais de 4 salários mínimos",
+            "manhã"
+        ],
+        "em_caso_doenca_procura" : [
+            "1 salário mínimo"
+        ]
+    },
+    "dimensions" : {
+        "religiao" : ["acomp. cresc. e desenv. da criança"],
+        "renda_familiar" : ["manhã", "internet"],
+        "identidade_genero" : [
+            "homossexual (gay / lésbica)",
+            "bissexual",
+            "sim"
+        ]
     }
 }
 
