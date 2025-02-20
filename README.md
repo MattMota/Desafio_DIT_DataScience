@@ -6,11 +6,11 @@ Durante o desenvolvimento do projeto, logo no início ocorreram problemas com a 
 
 ![alt text](image.png)
 
-Tentar corrigir o encoding, e mudar para outros como Latin-1 ou Windows-1252 simplemsente agravaram a corrupção do arquivo. Ademais, mesmo após extensa manipulação dos dados, o erro persistiu. Assim, para atender ao desafio dentro destas limitações, discuti a exploração, correção e decisões de arquitetura relacionadas ao dataset em um Jupyter Notebook, por julgar ser mais fácil de discorrer sobre os motivos das decisões tomadas.
+Tentar corrigir o encoding, e mudar para outros como Latin-1 ou Windows-1252 simplesmente agravaram a corrupção do arquivo. Ademais, mesmo após extensa manipulação dos dados, o erro persistiu. Assim, para atender ao desafio dentro destas limitações, discuti a exploração, correção e decisões de arquitetura relacionadas ao dataset em um Jupyter Notebook, por julgar ser mais fácil de discorrer sobre os motivos das decisões tomadas.
 
-Neste, exploro os dados e apresento questões de modelagem inerentes ao dataset, e crio duas versões com diferentes arquiteturas — _data warehouse_ e _data lake_, cada qual com sua finalidade — para disponibilizá-lo, aplicando o que seriam "correções" no contexto de cada arquitetura.
+Neste, exploro os dados, apresento questões de modelagem inerentes ao dataset, e crio duas versões com diferentes arquiteturas — _data warehouse_ e _data lake_, cada qual com sua finalidade e características (que são discutidas) — para disponibilizá-lo, aplicando o que seriam "correções" no contexto de cada arquitetura.
 
-Além disso, para conseguir concretizar as soluções, gero arquivos CSV para as tabelas de cada arquitetura, e ao final apresento _mockups_ de modelos DBT baseados em Python [de acordo com a documentação do DBT](https://docs.getdbt.com/docs/build/python-models), que poderiam ser usados com o CSV original para materializar estas mesmas tabelas em um SGBD.
+Além disso, para conseguir concretizar as soluções apesar das limitações, gero arquivos CSV para as tabelas de cada arquitetura, e ao final apresento _mockups_ de modelos DBT baseados em Python [de acordo com a documentação do DBT](https://docs.getdbt.com/docs/build/python-models), que poderiam ser usados com o CSV original para materializar estas mesmas tabelas em um SGBD.
 
 ## Estrutura de pastas
 
